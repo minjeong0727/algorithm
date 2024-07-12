@@ -1,4 +1,4 @@
-package algorithm.stack_queue;
+package algorithm.changhee.stack_queue;
 
 import java.io.BufferedReader;
 import java.io.IOException;
