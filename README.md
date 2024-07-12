@@ -60,7 +60,7 @@
 ex)
       
     
-       - 1st_stackAndQueue
+       - _1st_stackQueue
                        - practice
                                  - Boj0000
                                  - Boj1111
